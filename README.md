@@ -1,4 +1,4 @@
-# React Hooks useState, useEffect, and useContext Examples
+# React Hooks useState and useEffect Examples
 
 This source code is part of [React Hooks useState, useEffect, and useContext Examples](https://www.djamware.com/post/5de76ebb48f7bc1212d573b4/react-hooks-usestate-and-useeffect-examples).
 
